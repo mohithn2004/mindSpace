@@ -27,6 +27,11 @@ Imagine what you could achieve if you had a supportive partner by your side, hel
 That's what MindSpace offers
 
 
+Prompts implemented :
+1. User Dashboard
+2. Push Notifications
+3. SEO 
+
 By 
 
 Mohith N - 9591611217
