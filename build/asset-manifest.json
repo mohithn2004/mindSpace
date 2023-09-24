@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30196d8b.css",
+    "main.js": "/static/js/main.62706fcf.js",
+    "static/js/787.ec826b15.chunk.js": "/static/js/787.ec826b15.chunk.js",
+    "static/media/buddha.png": "/static/media/buddha.36449c621165352f0c65.png",
+    "index.html": "/index.html",
+    "main.30196d8b.css.map": "/static/css/main.30196d8b.css.map",
+    "main.62706fcf.js.map": "/static/js/main.62706fcf.js.map",
+    "787.ec826b15.chunk.js.map": "/static/js/787.ec826b15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30196d8b.css",
+    "static/js/main.62706fcf.js"
+  ]
+}

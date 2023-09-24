@@ -1,0 +1,75 @@
+
+.chat-bot-page{
+    padding-top: 25px;
+    width: 100%;
+    background: #D6EDF5;
+    border : 2px solid black;
+    padding: 20px;
+}
+
+.chat-box{
+    width: 700px;
+flex-shrink: 0;
+border : 2px solid black;
+border-radius: 25px;
+background: linear-gradient(182deg, #0A1A63 -27.61%, #A9C0E7 95.34%);
+box-shadow: 0px 4px 4px 0px rgba(0, 11, 61, 0.33) inset;
+margin-top: 75px;
+margin-left: 450px;
+}
+
+.chat-heading {
+    display: flex;
+width: 705px;
+height: 100px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+
+text-align: center;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.chat-ip{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 650px; 
+height: 25px;
+flex-shrink: 0;
+padding: 10px 10px;
+
+border-radius: 25px;
+border: 1px solid #414D84;
+background: rgba(214, 237, 245, 0.88);
+margin-left: 5px;
+margin-top: 375px; 
+position: relative;
+}
+
+.chat-ip-box{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    /* position: absolute; */
+}
+
+.arrow{
+    width: 40px;
+    height: 40px;
+}
+
+.send{
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.message{
+    padding: 10px;
+  max-height: 300px;
+  overflow-y: auto;
+}

@@ -1,0 +1,250 @@
+.home-page {
+  height: auto;
+  width: 100vw;
+  background: #d6edf5;
+  overflow-x: hidden;
+}
+
+.dough-nut {
+  margin-left: 100px;
+}
+
+.scrn-txt {
+  width: 321px;
+  color: #000b3d;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-left: 175px;
+  padding-top: 15px;
+}
+
+.flex{
+  display: flex;
+  margin-bottom: 20px;
+}
+.top{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
+  height: 150px;
+
+}
+.top .top1{
+  display: flex;
+  justify-content: right;
+}
+
+.sentiment-analysis {
+  width: 449px;
+  color: #000b3d;
+
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+
+  margin-left: 75px;
+  /* margin-top: 250px; */
+}
+
+.analysis {
+  width: 449px;
+  color: rgb(213, 213, 213);
+
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+
+  margin-left: 10px;
+  /* margin-top: 10px; */
+}
+
+.summary-box {
+  width: 900px;
+  height: 400px;
+  flex-shrink: 0;
+
+  border-radius: 25px;
+  background: linear-gradient(180deg, #0a1a63 -23.1%, #a9c0e7 99.91%);
+  box-shadow: 0px 4px 4px 0px rgba(0, 11, 61, 0.33) inset;
+  margin-left: 75px;
+  margin-top: 30px;
+  padding : 10px
+}
+
+.summary-text {
+  padding: 0px 10px;
+  font-size: 18px;
+  padding-top: 30px;
+  font-weight: 500;
+  color: #001842;
+}
+
+.summary-header {
+  padding-left: 15px;
+  padding-top: 25px;
+  color: #a5bde5;
+}
+
+.pfp {
+  height: 100px;
+  width: 100px;
+
+  margin-left: 75px;
+  margin-top: 0px;
+}
+
+.name {
+  margin-left: 40px;
+  margin-top: 25px;
+}
+
+/* .nav-box {
+    width: 135px;
+height: 42.01px;
+flex-shrink: 0;
+border-radius: 20px;
+border: 2px solid #000B3D;
+box-shadow: 0px 4px 4px 0px #A4BCE4;
+} */
+
+.nav-box:hover{
+    border-bottom: 2px solid black;
+
+}
+
+
+.nav-box {
+  /* border-radius: 20px; */
+
+  display: flex;
+  padding: 10px;
+  height: 20px;
+  width: 90px;
+  margin: 40px 10px;
+  justify-content: center;
+  color: #000b3d;
+  text-align: center;
+  font-size: 20px;
+}
+.nav-img{
+  margin: 30px 0px;
+}
+
+
+
+.sos{
+    display: flex;
+width: 281px;
+height: 40px;
+flex-direction: column;
+justify-content: center; 
+flex-shrink: 0;
+ color: #D6EDF5;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 100px;
+text-align: center;
+width: 300px;
+height: 100px;
+flex-shrink: 0;
+margin-top: 20px;
+
+border-radius: 25px;
+background: linear-gradient(180deg, #0A1A63 0.36%, #A9C0E7 218.79%);
+box-shadow: 0px 4px 4px 0px rgba(0, 11, 61, 0.33) inset, 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.sos:hover{
+    background: linear-gradient(179deg, #0A1A63 -95.21%, #A9C0E7 110.58%);
+
+}
+
+.search-bar{
+    margin-left: 55px;
+}
+
+/* .navbar{
+    position: fixed;
+} */
+
+.sos-modal{
+  width: 70vw;
+height: auto;
+flex-shrink: 0;
+margin: auto;
+margin-top: 50px;
+background: linear-gradient(180deg, #0A1A63 -80.96%, #A9C0E7 94.02%);
+box-shadow: 0px 4px 4px 0px rgba(0, 11, 61, 0.33) inset;
+border-radius: 20px;
+padding: 30px;
+text-align: left;
+}
+.sos-modal h2, p {
+  padding: 10px;
+}
+.sos-modal div {
+  margin-bottom: 10px;
+}
+.sos-modal a {
+  margin: 10px;
+  text-decoration: none;
+  padding: 6px;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  font-size: 16px;
+}
+.sos-modal a:hover{
+  color: black;
+  background-color: white;
+}
+
+.sos-head{
+  margin-left: 700px;
+  margin-top: 15px;
+}
+
+.sos-heading{
+  font-size: 30px;
+  text-align: center;
+}
+
+.submit{
+  width: 200px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 20px;
+background: linear-gradient(180deg, #8496E0 148.66%, #414D84 894.76%);
+text-align: center;
+padding-top: 20px;
+margin-left: 35%;
+}
+
+.submit:hover{
+  background: linear-gradient(180deg, #5f77d9 148.66%, #414D84 894.76%);
+}
+
+
+.srch-button{
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 5px 10px;
+  outline: none;
+  margin-top: 10px;
+}
+
+.srch-button:hover{
+  background-color: #5f77d9;
+}
+
+.middle{
+  margin-top:45px;
+  padding-left: 120px;
+  font-size: 30px;
+}
