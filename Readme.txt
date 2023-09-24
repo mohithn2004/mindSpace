@@ -32,8 +32,9 @@ Prompts implemented :
 2. Push Notifications
 3. SEO 
 
-By 
+Team Members:
 
 Mohith N - 9591611217
 S Hari Raghava - 8296058467
 Harsha M - 8105236539
+Tejashwini S - 8217284632
